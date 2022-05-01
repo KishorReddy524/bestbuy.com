@@ -26,9 +26,9 @@ Best Buy is an American multinational consumer electronics retailer headquartere
   <h3>Area of Responsibilty<h3/>
     <ul>
       <li>Social Sign-in/Sign-up</li>
+       <li>Login Page</li>
       <li>Contains Landing Page</li>
-      <li>Add to cart Page</li>
-    </ul>
+     </ul>
 
   
   
